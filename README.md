@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moussa-moustapha
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning Data Structures and algorithms and React Native
+- 🌱 I’m currently learning Data Structures and algorithms.
 
 <!---
 Moussa-moustapha/Moussa-moustapha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
